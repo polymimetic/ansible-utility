@@ -56,28 +56,6 @@ A collection of resources relating to Ansible.
 
 *Roles for Ansbile*
 
-### Example Roles
-
-- Java : [Github](https://github.com/silpion/ansible-java) / [Galaxy](https://galaxy.ansible.com/list#/roles/457)
-- MySQL : [Github](https://github.com/ANXS/mysql) / [Galaxy](https://galaxy.ansible.com/list#/roles/509)
-- Nginx : [Github](https://github.com/jdauphant/ansible-role-nginx) / [Galaxy](https://galaxy.ansible.com/list#/roles/466)
-- os-hardening : [Github](https://github.com/dev-sec/ansible-os-hardening) / [Galaxy](https://galaxy.ansible.com/dev-sec/os-hardening/)
-- PostgreSQL : [Github](https://github.com/ANXS/postgresql) / [Galaxy](https://galaxy.ansible.com/list#/roles/512)
-- Redis : [Github](https://github.com/DavidWittman/ansible-redis) / [Galaxy](https://galaxy.ansible.com/detail#/role/730)
-
-### Base Roles
-
-- [darkraiden](https://galaxy.ansible.com/darkraiden/ansible-base/)
-- [haos616](https://galaxy.ansible.com/haos616/base/)
-- [bbatsche](https://galaxy.ansible.com/bbatsche/Base/)
-- [coaxial](https://galaxy.ansible.com/coaxial/base/)
-- [lindahu1](https://galaxy.ansible.com/lindahu1/common/)
-- [Ilyes512](https://galaxy.ansible.com/Ilyes512/Base/)
-- [fubarhouse](https://galaxy.ansible.com/fubarhouse/commons/)
-- [yabhinav](https://galaxy.ansible.com/yabhinav/common/)
-- [axelitus](https://galaxy.ansible.com/axelitus/common/)
-- [viasite](https://galaxy.ansible.com/viasite-ansible/common/)
-
 ### Galaxy Roles
 
 - [AlphaHydrae.zsh-user](https://galaxy.ansible.com/AlphaHydrae/zsh-user/)
@@ -96,13 +74,12 @@ A collection of resources relating to Ansible.
 - [blazingbarons.fail2ban](https://galaxy.ansible.com/blazingbarons/fail2ban/)
 - [blazingbarons.nicer-bash-prompt](https://galaxy.ansible.com/blazingbarons/nicer-bash-prompt/)
 - [cchurch.admin-users](https://galaxy.ansible.com/cchurch/admin-users/)
+- [dev-sec.os-hardening](https://galaxy.ansible.com/dev-sec/os-hardening/)
 - [dotstrap.dircolors](https://galaxy.ansible.com/dotstrap/dircolors/)
 - [elboletaire.transmission](https://galaxy.ansible.com/elboletaire/transmission/)
-- [fabschurt.ubuntu-base](https://galaxy.ansible.com/fabschurt/ubuntu-base/)
 - [fradee.mailcatcher](https://galaxy.ansible.com/fradee/mailcatcher/)
 - [franklinkim.newrelic](https://galaxy.ansible.com/franklinkim/newrelic/)
 - [franklinkim.users](https://galaxy.ansible.com/franklinkim/users/)
-- [fretscha.first-five-minutes](https://galaxy.ansible.com/fretscha/first-five-minutes/)
 - [fubarhouse.sublime-drupal](https://galaxy.ansible.com/fubarhouse/sublime-drupal/)
 - [gantsign.default-web-browser](https://galaxy.ansible.com/gantsign/default-web-browser/)
 - [gantsign.gitkraken](https://galaxy.ansible.com/gantsign/gitkraken/)
@@ -151,7 +128,6 @@ A collection of resources relating to Ansible.
 - [iknite.spotify](https://galaxy.ansible.com/iknite/spotify/)
 - [jasonj.beanstalkd](https://galaxy.ansible.com/jasonj/beanstalkd/)
 - [kbrebanov.ssmtp](https://galaxy.ansible.com/kbrebanov/ssmtp/)
-- [kosssi.apt](https://galaxy.ansible.com/kosssi/apt/)
 - [kosssi.gitconfig](https://galaxy.ansible.com/kosssi/gitconfig/)
 - [loliee.prezto](https://galaxy.ansible.com/loliee/prezto/)
 - [loliee.zsh](https://galaxy.ansible.com/loliee/zsh/)
@@ -340,6 +316,9 @@ A collection of resources relating to Ansible.
 - [SimpliField](https://galaxy.ansible.com/SimpliField)
 - [Ilyes](https://galaxy.ansible.com/Ilyes512)
 - [OSXstrap](https://galaxy.ansible.com/jeremyltn/)
+- [Softasap](https://galaxy.ansible.com/softasap/)
+- [Juju4](https://galaxy.ansible.com/juju4/)
+- [Mrlesmithjr](https://galaxy.ansible.com/mrlesmithjr/)
 
 ## Testing
 
