@@ -17,4 +17,5 @@ This document outlines a run-down of tasks when building an ansible role from th
 - [ ] Initialize git repo `git init`
 - [ ] Push repo to GitHub
 - [ ] Create git tag `git tag -a v0.1.0 -m "Pre-release"`
+- [ ] Push tag git push origin v0.1.0
 - [ ] Create a [GitHub Release](https://help.github.com/articles/creating-releases/)
